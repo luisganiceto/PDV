@@ -1,0 +1,6 @@
+{
+  "name": "Gestão Comercial & Estoque PWA",
+  "description": "Aplicativo PWA offline de gestão comercial, controle de estoque com leitor de código de barras, vendas, fiado e contas a pagar com Dexie.js.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
